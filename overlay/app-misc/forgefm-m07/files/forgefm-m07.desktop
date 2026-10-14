@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=ForgeFM M/07
+Name[ru]=ForgeFM M/07 — файлы
+Comment=Single-window GTK4 file manager showing recursive folder sizes
+Comment[ru]=Однооконный файловый менеджер с размерами папок
+Exec=forgefm-m07 %f
+Icon=forgefm-m07
+Terminal=false
+Categories=System;FileManager;Utility;
+StartupNotify=true
